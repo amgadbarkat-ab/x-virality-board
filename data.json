@@ -1,0 +1,102 @@
+{
+  "title": "Daily X narrative digest \u2014 2026-10-26",
+  "date": "2026-10-26",
+  "timezone": "Europe/Athens",
+  "updated": "2026-10-26T11:50:00+02:00",
+  "brand_title": "BlackArk X Virality Score",
+  "brand_handle": "@BlackArktech",
+  "hits": [],
+  "virals": [],
+  "outsiders": [],
+  "patterns": [
+    "B2B AI agents",
+    "IT distribution / channel",
+    "Greece + GCC digital"
+  ],
+  "no_hits": [
+    {
+      "handle": "@example_quiet",
+      "reason": "No unpinned day original reached 5,000 views; highest observed was 1,200 views.",
+      "max_views": 1200
+    }
+  ],
+  "virals_narrative": "Starter board \u2014 first daily loop not run yet.",
+  "narrative_synthesis": "Starter board \u2014 first daily loop not run yet.",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 0,
+  "outsiders_count": 0,
+  "previous_day": {
+    "date": "2026-09-14",
+    "hits_count": 0,
+    "total_views": 0,
+    "x_score": 0
+  },
+  "leaderboards": {
+    "as_of": "2026-09-15",
+    "tracking_start": "2026-09-13",
+    "days_included": [
+      "2026-09-09",
+      "2026-09-10",
+      "2026-09-11",
+      "2026-09-12",
+      "2026-09-13",
+      "2026-09-14",
+      "2026-09-15"
+    ],
+    "month_days_included": [
+      "2026-09-13",
+      "2026-09-14",
+      "2026-09-15"
+    ],
+    "week": {
+      "label": "Rolling week \u00b7 Sep 9\u2013Sep 15",
+      "range": [
+        "2026-09-09",
+        "2026-09-15"
+      ],
+      "entries": []
+    },
+    "month": {
+      "label": "September 2026 \u00b7 from Sep 13",
+      "range": [
+        "2026-09-13",
+        "2026-09-15"
+      ],
+      "entries": []
+    }
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "operator": {
+    "handle": "@BlackArktech",
+    "name": "BlackArk Technologies",
+    "profile_url": "https://x.com/BlackArktech"
+  },
+  "ui": {
+    "default_theme": "night"
+  },
+  "day_roster": [],
+  "you_rank": null,
+  "trend_input_only_posts": []
+}
